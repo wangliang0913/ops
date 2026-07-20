@@ -193,3 +193,167 @@
 14:59:20   | 1271.00  | 408403       | -559       | 1287         | [0m观察中 (Neutral)[0m
 14:59:52   | 1272.00  | 407942       | -461       | 1682         | [0m观察中 (Neutral)[0m
 15:00:23   | 1272.00  | 407790       | -152       | 1682         | [0m观察中 (Neutral)[0m
+[jm2609] 2026/07/20 15:00:54 [DIAG] isTrading=0 rt=2100-2300,0900-1015,1030-1130,1330-1500 bars=346 turnoverOK=false
+15:00:54   | 1272.00  | 407790       | 0          | 2839         | [0m观察中 (Neutral)[0m
+15:01:25   | 1272.00  | 407790       | 0          | 2839         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:01:56   | 1272.00  | 407790       | 0          | 2839         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:02:34 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:02:34 [15:02:34] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:02:34   | 1272.00  | 407790       | 0          | 2839         | [31m⛔ 数据源不可用 [OK][0m
+15:03:05   | 1272.00  | 407790       | 0          | 2839         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:03:43 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:03:43 [15:03:43] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:03:43   | 1272.00  | 407790       | 0          | 2839         | [31m⛔ 数据源不可用 [OK][0m
+15:04:13   | 1272.00  | 407790       | 0          | 2839         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:04:51 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:04:51 [15:04:51] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:04:51   | 1272.00  | 407787       | -3         | 2839         | [31m⛔ 数据源不可用 [OK][0m
+15:05:22   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:06:00 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:06:00 [15:06:00] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:06:00   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:06:31   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:07:01   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:07:32   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:08:03   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:08:34   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:09:05   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:09:36 [DIAG] isTrading=0 rt=2100-2300,0900-1015,1030-1130,1330-1500 bars=346 turnoverOK=false
+15:09:36   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:10:08   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:10:46 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:10:46 [15:10:46] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:10:46   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:11:17   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:11:47   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:12:18   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:12:48   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:13:19   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:13:57 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:13:57 [15:13:57] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:13:57   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+[jm2609] 2026/07/20 15:14:27 [15:14:27] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:14:27   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+15:14:58   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:15:29   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:16:00   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:16:38 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:16:38 [15:16:38] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:16:38   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:17:09   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:17:47 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:17:47 [15:17:47] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:17:47   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+[jm2609] 2026/07/20 15:18:17 [DIAG] isTrading=0 rt=2100-2300,0900-1015,1030-1130,1330-1500 bars=346 turnoverOK=false
+15:18:17   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:18:48   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:19:19   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:19:51   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:20:22   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:20:52 [15:20:52] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:20:52   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+15:21:23   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:21:53   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:22:24   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:23:02 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:23:02 [15:23:02] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:23:02   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:23:32   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:24:04   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:24:34   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:25:05 [DIAG] isTrading=0 rt=2100-2300,0900-1015,1030-1130,1330-1500 bars=346 turnoverOK=false
+15:25:05   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:25:43 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:25:43 [15:25:43] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:25:43   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:26:14   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:26:44   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:27:15   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:27:53 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:27:53 [15:27:53] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:27:53   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+[jm2609] 2026/07/20 15:28:23 [15:28:23] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:28:23   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+[jm2609] 2026/07/20 15:29:01 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:29:01 [15:29:01] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:29:01   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:29:32   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:30:05   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:30:43 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:30:43 [15:30:43] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:30:43   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+[jm2609] 2026/07/20 15:31:14 [15:31:14] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:31:14   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+15:31:46   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:32:16 [15:32:16] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:32:16   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+15:32:47   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:33:18   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:33:48 [DIAG] isTrading=0 rt=2100-2300,0900-1015,1030-1130,1330-1500 bars=346 turnoverOK=false
+15:33:48   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:34:25 [15:34:25] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:34:25   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+15:34:55   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:35:26   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:35:57   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:36:28   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:37:00   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:37:31   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:38:05   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:38:35   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:39:13 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:39:13 [15:39:13] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:39:13   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+15:39:44   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:40:14   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:40:45 [DIAG] isTrading=0 rt=2100-2300,0900-1015,1030-1130,1330-1500 bars=346 turnoverOK=false
+15:40:45   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:41:15   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:41:53 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:41:53 [15:41:53] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:41:53   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+15:42:24   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:43:02 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:43:02 [15:43:02] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:43:02   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:43:34   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:44:05   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:44:43 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:44:43 [15:44:43] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:44:43   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:45:13   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:45:44   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:46:15   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:46:53 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:46:53 [15:46:53] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:46:53   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:47:23   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:47:54   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:48:25   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:48:55   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:49:27 [DIAG] isTrading=0 rt=2100-2300,0900-1015,1030-1130,1330-1500 bars=346 turnoverOK=false
+15:49:27   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:50:05 THS: HTTP Error: Get "http://d.10jqka.com.cn/v6/time/qh_jm2609/last.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[jm2609] 2026/07/20 15:50:05 [15:50:05] 🛑 信号冻结: ⛔ 数据源不可用 [OK]
+15:50:05   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [OK][0m
+15:50:35   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:51:05   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:51:36   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:52:06   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:52:37   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:53:08   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:53:39   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:54:10   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:54:41   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:55:11   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:55:42   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:56:12 [DIAG] isTrading=0 rt=2100-2300,0900-1015,1030-1130,1330-1500 bars=346 turnoverOK=false
+15:56:12   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:56:44   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+[jm2609] 2026/07/20 15:57:15 [15:57:15] 🛑 信号冻结: ⛔ 数据源不可用 [WARNING]
+15:57:15   | 1272.00  | 407787       | 0          | 2842         | [31m⛔ 数据源不可用 [WARNING][0m
+15:57:46   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:58:17   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:58:50   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:59:20   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
+15:59:55   | 1272.00  | 407787       | 0          | 2842         | [0m⏸️ 非交易时段 (IsTrading=false), 记录但不下单[0m
