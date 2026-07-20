@@ -1,0 +1,157 @@
+[HEALTH]2026/07/20 12:55:49 🔍 Health Monitor v1.2 started | Symbol: jm2609 | Interval: 30s
+[HEALTH]2026/07/20 12:55:49 Targets: Sina(hq.sinajs.cn) + THS(d.10jqka.com.cn)
+[HEALTH]2026/07/20 12:55:49 Checks: data freshness, volume sanity, turnover cross-validation, field mapping
+[HEALTH]2026/07/20 12:55:49 Toggle flag: /root/wangliang/toggle_jm2609_health (write 'start' to enable, 'stop' to disable)
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:55:49
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:55:50 🚨 CRITICAL health detected!
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:56:19
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:56:20 🚨 CRITICAL health detected!
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:56:49
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:56:49 🚨 CRITICAL health detected!
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:57:19
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:57:20 🚨 CRITICAL health detected!
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:57:49
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:57:49 🚨 CRITICAL health detected!
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:58:19
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:58:19 🚨 CRITICAL health detected!
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:58:49
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:58:50 🚨 CRITICAL health detected!
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:59:19
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:59:20 🚨 CRITICAL health detected!
+
+[31m═══ HEALTH CHECK ═══[0m
+  Time:          12:59:49
+  Status:        [31m[CRITICAL][0m
+  Sina Price:    1267.50 ✓
+  Sina OI:       418669 ✓
+  THS Price:     1267.50 ✓
+  THS LatestVol: 1515 hands
+  THS Bars:      256 bars
+  THS Cross-CHK: ✗ FAIL
+  THS isTrading: 0
+  THS rt:        2100-2300,0900-1015,1030-1130,1330-1500
+  Issues (2):
+    - THS turnover cross-check FAILED: f[2]=115155000 vs f[4]*f[3]*60=116533800
+    - [TRACKING] isTrading=0 (semantic TBD)
+------------------------------------------------------------
+[HEALTH]2026/07/20 12:59:49 🚨 CRITICAL health detected!

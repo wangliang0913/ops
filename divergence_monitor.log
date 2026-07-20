@@ -1,0 +1,173 @@
+[jm2609] 2026/07/20 12:55:49 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:55:49 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:55:49 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:55:49 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:55:49 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:55:54 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:55:54 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:55:54 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:55:54 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:55:54 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:55:59 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:55:59 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:55:59 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:55:59 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:55:59 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:04 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:04 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:04 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:04 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:04 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:10 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:10 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:10 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:10 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:10 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:15 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:15 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:15 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:15 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:15 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:20 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:20 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:20 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:20 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:20 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:25 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:25 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:25 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:25 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:25 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:31 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:31 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:31 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:31 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:31 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:36 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:36 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:36 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:36 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:36 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:41 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:41 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:41 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:41 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:41 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:46 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:46 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:46 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:46 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:46 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:52 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:52 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:52 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:52 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:52 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:56:57 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:56:57 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:56:57 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:56:57 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:56:57 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:02 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:02 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:02 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:02 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:02 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:07 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:07 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:07 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:07 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:07 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:13 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:13 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:13 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:13 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:13 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:18 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:18 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:18 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:18 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:18 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:23 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:23 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:23 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:23 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:23 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:28 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:28 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:28 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:28 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:28 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:34 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:34 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:34 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:34 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:34 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:39 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:39 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:39 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:39 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:39 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:44 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:44 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:44 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:44 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:44 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:49 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:49 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:49 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:49 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:49 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:57:55 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:57:55 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:57:55 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:57:55 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:57:55 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:58:00 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:58:00 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:58:00 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:58:00 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:58:00 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:58:05 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:58:05 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:58:05 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:58:05 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:58:05 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:58:10 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:58:10 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:58:10 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:58:10 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
+[jm2609] 2026/07/20 12:58:10 🚨 [CRITICAL] API server 启动失败 (:8081): listen tcp :8081: bind: address already in use
+[jm2609] 2026/07/20 12:58:13 ⚠️ 未找到品种 jm2609 的配置行，使用内置乘数表/默认值
+[jm2609] 2026/07/20 12:58:13 ✅ 使用内置合约乘数表: jm = 60 吨/手（建议同时写入 symbols 表）
+[jm2609] 2026/07/20 12:58:13 ✅ 检查通过：无挂起订单。
+[jm2609] 2026/07/20 12:58:13 🌐 Dashboard API listening on http://0.0.0.0:8081
+时刻         | Price    | Total OI     | ΔOI (60s)  | Vol (THS)    | 性质判定                     
