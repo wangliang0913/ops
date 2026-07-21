@@ -6654,3 +6654,360 @@
 [12:00:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
 [12:00:28] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
 [HEALTH] 2026/07/21 12:00:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:00:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:00:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:00:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:01:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:01:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:01:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:01:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:01:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:01:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:02:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:02:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:02:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:02:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:02:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:02:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:03:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:03:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:03:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:03:48] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:03:58] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:03:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:04:18] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:04:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:04:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:04:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:04:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:04:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:05:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:05:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:05:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:05:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:05:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:05:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:06:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:06:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:06:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:06:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:06:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:06:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:07:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:07:28] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:07:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:07:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:07:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:07:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:08:19] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:08:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:08:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:08:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:08:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:08:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:09:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:09:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:09:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:09:48] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:09:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:09:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:10:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:10:29] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:10:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:10:54] Status: WARNING | Sina: 0.00 | THS Vol: 1489 | TO: true
+[12:10:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:10:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:11:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:11:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:11:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:11:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:11:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:11:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:12:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:12:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:12:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:12:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:12:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:12:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:13:18] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:13:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:13:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:13:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:13:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:13:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:14:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:14:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:14:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:14:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:14:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:14:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:15:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:15:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:15:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:15:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:15:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:15:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:16:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:16:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:16:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:16:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:16:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:16:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:17:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:17:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:17:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:17:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:17:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:17:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:18:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:18:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:18:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:18:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:18:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:18:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:19:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:19:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:19:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:19:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:19:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:19:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:20:19] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:20:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:20:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:20:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:20:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:20:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:21:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:21:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:21:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:21:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:21:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:21:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:22:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:22:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:22:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:22:49] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:22:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:22:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:23:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:23:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:23:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:23:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:23:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:23:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:24:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:24:29] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:24:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:24:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:24:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:24:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:25:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:25:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:25:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:25:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:25:58] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:25:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:26:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:26:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:26:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:26:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:26:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:26:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:27:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:27:29] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:27:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:27:50] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:27:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:27:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:28:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:28:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:28:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:28:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:28:58] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:28:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:29:18] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:29:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:29:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:29:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:29:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:29:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:30:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:30:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:30:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:30:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:30:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:30:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:31:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:31:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:31:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:31:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:31:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:31:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:32:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:32:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:32:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:32:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:32:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:32:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:33:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:33:28] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:33:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:33:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:33:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:33:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:34:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:34:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:34:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:34:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:34:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:34:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:35:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:35:28] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:35:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:35:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:35:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:35:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:36:19] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:36:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:36:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:36:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:36:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:36:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:37:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:37:30] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:37:30 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:37:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:37:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:37:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:38:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:38:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:38:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:38:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:38:59] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:38:59 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:39:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:39:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:39:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:39:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:39:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:39:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:40:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:40:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:40:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:40:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:40:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:40:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:41:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:41:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:41:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:41:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:41:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:41:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:42:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:42:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:42:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:42:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:42:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:42:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:43:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:43:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:43:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:43:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:43:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:43:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:44:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:44:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:44:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:44:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:44:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:44:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:45:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:45:28] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:45:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:45:56] Status: WARNING | Sina: 0.00 | THS Vol: 1489 | TO: true
+[12:45:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:45:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:46:17] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:46:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:46:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:46:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:46:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:46:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:47:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:47:28] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:47:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:47:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:47:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:47:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:48:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:48:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:48:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:48:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:48:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:48:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:49:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:49:28] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:49:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:49:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:49:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:49:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:50:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:50:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:50:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:50:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:50:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:50:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:51:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:51:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:51:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:51:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:51:58] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:51:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:52:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:52:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:52:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:52:47] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:52:58] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:52:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:53:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:53:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:53:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:53:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:53:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:53:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:54:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:54:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:54:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:54:48] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:54:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:54:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:55:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:55:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:55:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:55:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:55:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:55:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:56:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:56:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:56:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:56:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:56:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:56:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:57:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:57:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:57:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:57:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:57:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:57:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:58:18] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:58:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:58:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:58:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:58:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:58:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:59:16] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:59:27] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:59:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[12:59:46] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[12:59:57] Status: OK | Sina: 1247.50 | THS Vol: 1489 | TO: true
+[HEALTH] 2026/07/21 12:59:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
