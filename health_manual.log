@@ -10040,3 +10040,7 @@
 [22:59:27] Status: OK | Sina: 1277.00 | THS Vol: 974 | TO: true
 [22:59:50] Status: WARNING | Sina: 1277.00 | THS Vol: 0 | TO: false
 [22:59:57] Status: OK | Sina: 1275.50 | THS Vol: 974 | TO: true
+[23:00:19] Status: OK | Sina: 1276.00 | THS Vol: 4042 | TO: true
+[23:00:28] Status: OK | Sina: 1276.00 | THS Vol: 4042 | TO: true
+[23:00:57] Status: OK | Sina: 1276.00 | THS Vol: 4042 | TO: true
+[23:00:59] Status: WARNING | Sina: 0.00 | THS Vol: 4042 | TO: true
