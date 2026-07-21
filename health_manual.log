@@ -8452,3 +8452,5 @@
 [16:59:57] Status: OK | Sina: 1275.00 | THS Vol: 5859 | TO: true
 [HEALTH] 2026/07/21 16:59:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
 [17:00:16] Status: OK | Sina: 1275.00 | THS Vol: 5859 | TO: true
+[17:00:27] Status: OK | Sina: 1275.00 | THS Vol: 5859 | TO: true
+[HEALTH] 2026/07/21 17:00:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
