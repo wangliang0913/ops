@@ -16729,3 +16729,576 @@
 [22:01:27] Status: OK | Sina: 1278.50 | THS Vol: 1857 | TO: true
 [22:01:55] Status: WARNING | Sina: 0.00 | THS Vol: 1857 | TO: true
 [22:01:57] Status: OK | Sina: 1278.50 | THS Vol: 1857 | TO: true
+[22:02:16] Status: OK | Sina: 1278.00 | THS Vol: 1857 | TO: true
+[22:02:27] Status: OK | Sina: 1277.00 | THS Vol: 1127 | TO: true
+[22:02:48] Status: OK | Sina: 1278.00 | THS Vol: 1127 | TO: true
+[22:02:57] Status: OK | Sina: 1278.00 | THS Vol: 1127 | TO: true
+[22:03:16] Status: OK | Sina: 1277.50 | THS Vol: 1127 | TO: true
+[22:03:27] Status: OK | Sina: 1277.50 | THS Vol: 1369 | TO: true
+[22:04:02] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:04:06] Status: WARNING | Sina: 0.00 | THS Vol: 1369 | TO: true
+[22:04:17] Status: OK | Sina: 1277.00 | THS Vol: 1369 | TO: true
+[22:04:27] Status: OK | Sina: 1277.00 | THS Vol: 1369 | TO: true
+[22:04:55] Status: WARNING | Sina: 0.00 | THS Vol: 764 | TO: true
+[22:05:06] Status: WARNING | Sina: 0.00 | THS Vol: 764 | TO: true
+[22:05:16] Status: OK | Sina: 1277.00 | THS Vol: 764 | TO: true
+[22:05:27] Status: OK | Sina: 1277.00 | THS Vol: 764 | TO: true
+[22:06:02] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:06:05] Status: WARNING | Sina: 0.00 | THS Vol: 563 | TO: true
+[22:06:20] Status: OK | Sina: 1278.00 | THS Vol: 563 | TO: true
+[22:06:27] Status: OK | Sina: 1278.50 | THS Vol: 563 | TO: true
+[22:06:46] Status: OK | Sina: 1279.00 | THS Vol: 333 | TO: true
+[22:07:12] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:07:17] Status: OK | Sina: 1278.00 | THS Vol: 333 | TO: true
+[22:07:27] Status: OK | Sina: 1278.50 | THS Vol: 333 | TO: true
+[22:07:46] Status: OK | Sina: 1278.50 | THS Vol: 2555 | TO: true
+[22:08:12] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:08:16] Status: OK | Sina: 1278.50 | THS Vol: 2555 | TO: true
+[22:08:27] Status: OK | Sina: 1279.00 | THS Vol: 2555 | TO: true
+[22:08:49] Status: OK | Sina: 1279.50 | THS Vol: 1023 | TO: true
+[22:09:12] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:09:17] Status: OK | Sina: 1278.50 | THS Vol: 1023 | TO: true
+[22:09:27] Status: OK | Sina: 1278.50 | THS Vol: 1023 | TO: true
+[22:09:46] Status: OK | Sina: 1278.50 | THS Vol: 1023 | TO: true
+[22:09:57] Status: OK | Sina: 1278.50 | THS Vol: 1083 | TO: true
+[22:10:16] Status: OK | Sina: 1278.50 | THS Vol: 1083 | TO: true
+[22:10:27] Status: OK | Sina: 1278.50 | THS Vol: 1083 | TO: true
+[22:10:47] Status: OK | Sina: 1279.00 | THS Vol: 1083 | TO: true
+[22:10:57] Status: OK | Sina: 1279.50 | THS Vol: 854 | TO: true
+[22:11:16] Status: OK | Sina: 1279.00 | THS Vol: 854 | TO: true
+[22:11:27] Status: OK | Sina: 1279.00 | THS Vol: 854 | TO: true
+[22:12:02] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:12:06] Status: WARNING | Sina: 0.00 | THS Vol: 2657 | TO: true
+[22:12:16] Status: OK | Sina: 1280.00 | THS Vol: 2657 | TO: true
+[22:12:28] Status: OK | Sina: 1280.00 | THS Vol: 2657 | TO: true
+[22:12:46] Status: OK | Sina: 1279.00 | THS Vol: 2657 | TO: true
+[22:12:57] Status: OK | Sina: 1279.00 | THS Vol: 2321 | TO: true
+[22:13:17] Status: OK | Sina: 1279.00 | THS Vol: 2321 | TO: true
+[22:13:27] Status: OK | Sina: 1278.50 | THS Vol: 2321 | TO: true
+[22:13:47] Status: OK | Sina: 1279.00 | THS Vol: 2321 | TO: true
+[22:13:59] Status: OK | Sina: 1279.50 | THS Vol: 2285 | TO: true
+[22:14:17] Status: OK | Sina: 1279.50 | THS Vol: 2285 | TO: true
+[22:14:27] Status: OK | Sina: 1279.00 | THS Vol: 2285 | TO: true
+[22:14:46] Status: OK | Sina: 1279.50 | THS Vol: 2285 | TO: true
+[22:14:57] Status: OK | Sina: 1279.50 | THS Vol: 2285 | TO: true
+[22:15:17] Status: OK | Sina: 1279.50 | THS Vol: 1044 | TO: true
+[22:15:29] Status: OK | Sina: 1279.00 | THS Vol: 1044 | TO: true
+[22:15:54] Status: WARNING | Sina: 1279.00 | THS Vol: 0 | TO: false
+[22:15:58] Status: OK | Sina: 1279.00 | THS Vol: 1044 | TO: true
+[22:16:32] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:16:36] Status: WARNING | Sina: 0.00 | THS Vol: 686 | TO: true
+[22:16:46] Status: OK | Sina: 1279.00 | THS Vol: 686 | TO: true
+[22:16:57] Status: OK | Sina: 1278.50 | THS Vol: 686 | TO: true
+[22:17:16] Status: OK | Sina: 1278.50 | THS Vol: 471 | TO: true
+[22:17:27] Status: OK | Sina: 1279.00 | THS Vol: 471 | TO: true
+[22:17:46] Status: OK | Sina: 1279.00 | THS Vol: 471 | TO: true
+[22:17:59] Status: OK | Sina: 1279.00 | THS Vol: 471 | TO: true
+[22:18:16] Status: OK | Sina: 1278.50 | THS Vol: 514 | TO: true
+[22:18:27] Status: OK | Sina: 1278.00 | THS Vol: 514 | TO: true
+[22:19:02] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:19:05] Status: WARNING | Sina: 0.00 | THS Vol: 514 | TO: true
+[22:19:19] Status: OK | Sina: 1278.50 | THS Vol: 912 | TO: true
+[22:19:27] Status: OK | Sina: 1278.50 | THS Vol: 912 | TO: true
+[22:19:46] Status: OK | Sina: 1278.50 | THS Vol: 912 | TO: true
+[22:19:57] Status: OK | Sina: 1278.50 | THS Vol: 912 | TO: true
+[22:20:17] Status: OK | Sina: 1279.00 | THS Vol: 912 | TO: true
+[22:20:27] Status: OK | Sina: 1278.50 | THS Vol: 459 | TO: true
+[22:20:47] Status: OK | Sina: 1279.00 | THS Vol: 459 | TO: true
+[22:20:57] Status: OK | Sina: 1278.50 | THS Vol: 459 | TO: true
+[22:21:17] Status: OK | Sina: 1278.50 | THS Vol: 459 | TO: true
+[22:21:28] Status: OK | Sina: 1279.00 | THS Vol: 543 | TO: true
+[22:21:46] Status: OK | Sina: 1278.50 | THS Vol: 543 | TO: true
+[22:21:57] Status: OK | Sina: 1278.50 | THS Vol: 543 | TO: true
+[22:22:16] Status: OK | Sina: 1278.50 | THS Vol: 543 | TO: true
+[22:22:27] Status: OK | Sina: 1278.50 | THS Vol: 543 | TO: true
+[22:22:47] Status: OK | Sina: 1278.50 | THS Vol: 233 | TO: true
+[22:22:57] Status: OK | Sina: 1279.00 | THS Vol: 233 | TO: true
+[22:23:16] Status: OK | Sina: 1278.50 | THS Vol: 233 | TO: true
+[22:23:27] Status: OK | Sina: 1279.00 | THS Vol: 233 | TO: true
+[22:23:46] Status: OK | Sina: 1278.50 | THS Vol: 210 | TO: true
+[22:23:57] Status: OK | Sina: 1279.00 | THS Vol: 210 | TO: true
+[22:24:17] Status: OK | Sina: 1279.00 | THS Vol: 210 | TO: true
+[22:24:27] Status: OK | Sina: 1279.00 | THS Vol: 210 | TO: true
+[22:24:47] Status: OK | Sina: 1279.00 | THS Vol: 202 | TO: true
+[22:24:59] Status: OK | Sina: 1279.00 | THS Vol: 202 | TO: true
+[22:25:17] Status: OK | Sina: 1279.00 | THS Vol: 202 | TO: true
+[22:25:27] Status: OK | Sina: 1279.00 | THS Vol: 202 | TO: true
+[22:25:46] Status: OK | Sina: 1278.50 | THS Vol: 363 | TO: true
+[22:25:59] Status: OK | Sina: 1278.50 | THS Vol: 363 | TO: true
+[22:26:16] Status: OK | Sina: 1278.50 | THS Vol: 363 | TO: true
+[22:26:27] Status: OK | Sina: 1278.00 | THS Vol: 363 | TO: true
+[22:26:47] Status: OK | Sina: 1277.00 | THS Vol: 227 | TO: true
+[22:26:57] Status: OK | Sina: 1277.00 | THS Vol: 227 | TO: true
+[22:27:17] Status: OK | Sina: 1277.00 | THS Vol: 227 | TO: true
+[22:27:28] Status: OK | Sina: 1278.00 | THS Vol: 227 | TO: true
+[22:27:46] Status: OK | Sina: 1277.00 | THS Vol: 227 | TO: true
+[22:27:57] Status: OK | Sina: 1277.50 | THS Vol: 1599 | TO: true
+[22:28:17] Status: OK | Sina: 1277.50 | THS Vol: 1599 | TO: true
+[22:28:30] Status: OK | Sina: 1277.00 | THS Vol: 1599 | TO: true
+[22:28:47] Status: OK | Sina: 1277.00 | THS Vol: 1599 | TO: true
+[22:29:00] Status: OK | Sina: 1277.50 | THS Vol: 1104 | TO: true
+[22:29:16] Status: OK | Sina: 1277.00 | THS Vol: 1104 | TO: true
+[22:29:27] Status: OK | Sina: 1276.50 | THS Vol: 1104 | TO: true
+[22:29:54] Status: OK | Sina: 1276.50 | THS Vol: 1104 | TO: true
+[22:29:57] Status: OK | Sina: 1276.50 | THS Vol: 1104 | TO: true
+[22:30:16] Status: OK | Sina: 1276.50 | THS Vol: 512 | TO: true
+[22:30:27] Status: OK | Sina: 1276.50 | THS Vol: 512 | TO: true
+[22:30:47] Status: OK | Sina: 1277.00 | THS Vol: 512 | TO: true
+[22:31:12] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:31:24] Status: WARNING | Sina: 0.00 | THS Vol: 2000 | TO: true
+[22:31:27] Status: OK | Sina: 1277.50 | THS Vol: 2000 | TO: true
+[22:31:46] Status: OK | Sina: 1277.50 | THS Vol: 2000 | TO: true
+[22:31:57] Status: OK | Sina: 1277.50 | THS Vol: 2000 | TO: true
+[22:32:16] Status: OK | Sina: 1278.00 | THS Vol: 1007 | TO: true
+[22:32:42] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:32:46] Status: OK | Sina: 1277.50 | THS Vol: 1007 | TO: true
+[22:32:57] Status: OK | Sina: 1278.00 | THS Vol: 1007 | TO: true
+[22:33:17] Status: OK | Sina: 1277.50 | THS Vol: 366 | TO: true
+[22:33:27] Status: OK | Sina: 1277.00 | THS Vol: 366 | TO: true
+[22:33:47] Status: OK | Sina: 1278.00 | THS Vol: 366 | TO: true
+[22:33:57] Status: OK | Sina: 1277.50 | THS Vol: 366 | TO: true
+[22:34:17] Status: OK | Sina: 1277.50 | THS Vol: 384 | TO: true
+[22:34:27] Status: OK | Sina: 1277.50 | THS Vol: 384 | TO: true
+[22:34:46] Status: OK | Sina: 1277.00 | THS Vol: 384 | TO: true
+[22:34:57] Status: OK | Sina: 1277.00 | THS Vol: 384 | TO: true
+[22:35:16] Status: OK | Sina: 1277.00 | THS Vol: 384 | TO: true
+[22:35:27] Status: OK | Sina: 1277.50 | THS Vol: 216 | TO: true
+[22:35:54] Status: WARNING | Sina: 0.00 | THS Vol: 216 | TO: true
+[22:35:57] Status: OK | Sina: 1277.00 | THS Vol: 216 | TO: true
+[22:36:16] Status: OK | Sina: 1276.50 | THS Vol: 216 | TO: true
+[22:36:27] Status: OK | Sina: 1276.50 | THS Vol: 199 | TO: true
+[22:36:46] Status: OK | Sina: 1276.50 | THS Vol: 199 | TO: true
+[22:36:58] Status: OK | Sina: 1276.50 | THS Vol: 199 | TO: true
+[22:37:18] Status: OK | Sina: 1276.50 | THS Vol: 199 | TO: true
+[22:37:38] Status: WARNING | Sina: 0.00 | THS Vol: 1470 | TO: true
+[22:37:46] Status: OK | Sina: 1277.00 | THS Vol: 1470 | TO: true
+[22:38:01] Status: OK | Sina: 1277.00 | THS Vol: 1470 | TO: true
+[22:38:17] Status: OK | Sina: 1276.00 | THS Vol: 1470 | TO: true
+[22:38:27] Status: OK | Sina: 1276.50 | THS Vol: 1470 | TO: true
+[22:38:46] Status: OK | Sina: 1276.50 | THS Vol: 241 | TO: true
+[22:38:57] Status: OK | Sina: 1276.50 | THS Vol: 241 | TO: true
+[22:39:17] Status: OK | Sina: 1276.50 | THS Vol: 241 | TO: true
+[22:39:28] Status: OK | Sina: 1276.00 | THS Vol: 241 | TO: true
+[22:39:46] Status: OK | Sina: 1276.00 | THS Vol: 1559 | TO: true
+[22:39:57] Status: OK | Sina: 1276.00 | THS Vol: 1559 | TO: true
+[22:40:18] Status: OK | Sina: 1276.50 | THS Vol: 1559 | TO: true
+[22:40:28] Status: OK | Sina: 1276.50 | THS Vol: 1559 | TO: true
+[22:40:46] Status: OK | Sina: 1276.50 | THS Vol: 727 | TO: true
+[22:40:57] Status: OK | Sina: 1276.50 | THS Vol: 727 | TO: true
+[22:41:17] Status: OK | Sina: 1276.00 | THS Vol: 727 | TO: true
+[22:41:27] Status: OK | Sina: 1276.00 | THS Vol: 727 | TO: true
+[22:41:46] Status: OK | Sina: 1276.00 | THS Vol: 611 | TO: true
+[22:41:57] Status: OK | Sina: 1276.00 | THS Vol: 611 | TO: true
+[22:42:17] Status: OK | Sina: 1276.00 | THS Vol: 611 | TO: true
+[22:42:29] Status: OK | Sina: 1276.50 | THS Vol: 611 | TO: true
+[22:42:47] Status: OK | Sina: 1276.00 | THS Vol: 2086 | TO: true
+[22:42:57] Status: OK | Sina: 1276.50 | THS Vol: 2086 | TO: true
+[22:43:16] Status: OK | Sina: 1277.00 | THS Vol: 2086 | TO: true
+[22:43:28] Status: OK | Sina: 1277.00 | THS Vol: 2086 | TO: true
+[22:43:46] Status: OK | Sina: 1277.00 | THS Vol: 2086 | TO: true
+[22:43:57] Status: OK | Sina: 1277.00 | THS Vol: 683 | TO: true
+[22:44:17] Status: OK | Sina: 1277.00 | THS Vol: 683 | TO: true
+[22:44:27] Status: OK | Sina: 1276.50 | THS Vol: 683 | TO: true
+[22:44:46] Status: OK | Sina: 1276.50 | THS Vol: 683 | TO: true
+[22:44:57] Status: OK | Sina: 1277.00 | THS Vol: 683 | TO: true
+[22:45:16] Status: OK | Sina: 1276.50 | THS Vol: 381 | TO: true
+[22:45:42] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[22:45:47] Status: OK | Sina: 1276.50 | THS Vol: 381 | TO: true
+[22:45:58] Status: OK | Sina: 1276.50 | THS Vol: 381 | TO: true
+[22:46:17] Status: OK | Sina: 1275.50 | THS Vol: 950 | TO: true
+[22:46:27] Status: OK | Sina: 1276.00 | THS Vol: 950 | TO: true
+[22:46:46] Status: OK | Sina: 1276.00 | THS Vol: 950 | TO: true
+[22:46:57] Status: OK | Sina: 1276.00 | THS Vol: 950 | TO: true
+[22:47:16] Status: OK | Sina: 1275.50 | THS Vol: 504 | TO: true
+[22:47:28] Status: OK | Sina: 1275.50 | THS Vol: 504 | TO: true
+[22:47:47] Status: OK | Sina: 1276.00 | THS Vol: 504 | TO: true
+[22:47:57] Status: OK | Sina: 1276.50 | THS Vol: 504 | TO: true
+[22:48:16] Status: OK | Sina: 1276.50 | THS Vol: 504 | TO: true
+[22:48:27] Status: OK | Sina: 1276.00 | THS Vol: 420 | TO: true
+[22:48:46] Status: OK | Sina: 1276.00 | THS Vol: 420 | TO: true
+[22:48:59] Status: OK | Sina: 1276.50 | THS Vol: 420 | TO: true
+[22:49:16] Status: OK | Sina: 1276.50 | THS Vol: 420 | TO: true
+[22:49:27] Status: OK | Sina: 1277.00 | THS Vol: 212 | TO: true
+[22:49:46] Status: OK | Sina: 1277.00 | THS Vol: 212 | TO: true
+[22:49:58] Status: OK | Sina: 1277.00 | THS Vol: 212 | TO: true
+[22:50:16] Status: OK | Sina: 1277.50 | THS Vol: 212 | TO: true
+[22:50:27] Status: OK | Sina: 1277.50 | THS Vol: 766 | TO: true
+[22:50:48] Status: OK | Sina: 1277.00 | THS Vol: 766 | TO: true
+[22:50:57] Status: OK | Sina: 1277.00 | THS Vol: 766 | TO: true
+[22:51:16] Status: OK | Sina: 1276.50 | THS Vol: 766 | TO: true
+[22:51:28] Status: OK | Sina: 1277.00 | THS Vol: 833 | TO: true
+[22:51:47] Status: OK | Sina: 1277.00 | THS Vol: 833 | TO: true
+[22:51:57] Status: OK | Sina: 1277.00 | THS Vol: 833 | TO: true
+[22:52:16] Status: OK | Sina: 1276.50 | THS Vol: 833 | TO: true
+[22:52:28] Status: OK | Sina: 1276.50 | THS Vol: 138 | TO: true
+[22:52:46] Status: OK | Sina: 1277.00 | THS Vol: 138 | TO: true
+[22:52:58] Status: OK | Sina: 1277.00 | THS Vol: 138 | TO: true
+[22:53:16] Status: OK | Sina: 1277.00 | THS Vol: 138 | TO: true
+[22:53:28] Status: OK | Sina: 1277.50 | THS Vol: 138 | TO: true
+[22:53:48] Status: OK | Sina: 1277.00 | THS Vol: 405 | TO: true
+[22:53:57] Status: OK | Sina: 1277.50 | THS Vol: 405 | TO: true
+[22:54:16] Status: OK | Sina: 1277.50 | THS Vol: 405 | TO: true
+[22:54:27] Status: OK | Sina: 1277.00 | THS Vol: 405 | TO: true
+[22:54:46] Status: OK | Sina: 1277.00 | THS Vol: 408 | TO: true
+[22:54:58] Status: OK | Sina: 1277.00 | THS Vol: 408 | TO: true
+[22:55:17] Status: OK | Sina: 1277.00 | THS Vol: 408 | TO: true
+[22:55:28] Status: OK | Sina: 1277.00 | THS Vol: 408 | TO: true
+[22:55:54] Status: OK | Sina: 1277.00 | THS Vol: 573 | TO: true
+[22:55:57] Status: OK | Sina: 1277.00 | THS Vol: 573 | TO: true
+[22:56:16] Status: OK | Sina: 1277.00 | THS Vol: 573 | TO: true
+[22:56:27] Status: OK | Sina: 1277.50 | THS Vol: 573 | TO: true
+[22:56:46] Status: OK | Sina: 1277.50 | THS Vol: 246 | TO: true
+[22:56:58] Status: OK | Sina: 1277.00 | THS Vol: 246 | TO: true
+[22:57:19] Status: OK | Sina: 1277.50 | THS Vol: 246 | TO: true
+[22:57:27] Status: OK | Sina: 1277.50 | THS Vol: 246 | TO: true
+[22:57:46] Status: OK | Sina: 1277.00 | THS Vol: 344 | TO: true
+[22:57:57] Status: OK | Sina: 1277.50 | THS Vol: 344 | TO: true
+[22:58:16] Status: OK | Sina: 1277.50 | THS Vol: 344 | TO: true
+[22:58:27] Status: OK | Sina: 1278.00 | THS Vol: 344 | TO: true
+[22:58:47] Status: OK | Sina: 1277.50 | THS Vol: 408 | TO: true
+[22:58:57] Status: OK | Sina: 1278.00 | THS Vol: 408 | TO: true
+[22:59:16] Status: OK | Sina: 1278.50 | THS Vol: 408 | TO: true
+[22:59:27] Status: OK | Sina: 1278.50 | THS Vol: 408 | TO: true
+[22:59:46] Status: OK | Sina: 1278.50 | THS Vol: 408 | TO: true
+[22:59:57] Status: OK | Sina: 1278.00 | THS Vol: 988 | TO: true
+[23:00:17] Status: OK | Sina: 1278.50 | THS Vol: 988 | TO: true
+[23:00:27] Status: OK | Sina: 1278.50 | THS Vol: 988 | TO: true
+[23:00:50] Status: OK | Sina: 1278.50 | THS Vol: 988 | TO: true
+[23:01:04] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:01:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:01:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:02:02] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[23:02:06] Status: WARNING | Sina: 0.00 | THS Vol: 3146 | TO: true
+[23:02:18] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:02:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:02:50] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:03:00] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:03:18] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:03:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:03:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:03:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:04:18] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:04:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:04:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:04:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:05:18] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:05:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:05:53] Status: WARNING | Sina: 1278.50 | THS Vol: 0 | TO: false
+[23:05:59] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:06:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:06:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:06:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:06:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:07:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:07:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:07:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:07:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:08:19] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:08:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:08:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:08:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:09:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:09:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:09:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:09:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:10:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:10:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:10:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:10:54] Status: WARNING | Sina: 1278.50 | THS Vol: 0 | TO: false
+[23:10:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:10:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:11:18] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:11:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:11:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:11:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:11:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:11:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:12:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:12:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:12:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:12:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:12:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:12:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:13:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:13:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:13:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:13:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:13:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:13:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:14:20] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:14:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:14:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:14:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:14:59] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:14:59 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:15:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:15:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:15:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:15:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:15:59] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:15:59 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:16:21] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:16:29] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:16:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:16:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:16:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:16:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:17:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:17:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:17:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:17:48] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:17:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:17:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:18:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:18:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:18:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:18:54] Status: WARNING | Sina: 1278.50 | THS Vol: 0 | TO: false
+[23:18:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:18:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:19:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:19:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:19:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:19:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:19:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:19:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:20:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:20:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:20:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:20:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:20:58] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:20:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:21:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:21:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:21:27] Status: WARNING | Sina: 0.00 | THS Vol: 3146 | TO: true
+[23:21:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:21:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:21:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:22:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:22:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:22:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:22:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:22:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:22:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:23:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:23:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:23:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:23:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:24:12] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[HEALTH] 2026/07/22 23:24:12 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:24:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:24:29] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:24:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:24:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:24:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:24:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:25:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:25:32] Status: WARNING | Sina: 1278.50 | THS Vol: 0 | TO: false
+[HEALTH] 2026/07/22 23:25:32 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:25:54] Status: WARNING | Sina: 0.00 | THS Vol: 3146 | TO: true
+[23:25:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:25:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:26:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:26:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:26:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:27:01] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:27:01 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:27:02] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[23:27:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:27:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:27:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:28:02] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[23:28:12] Status: WARNING | Sina: 0.00 | THS Vol: 0 | TO: false
+[HEALTH] 2026/07/22 23:28:12 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:28:26] Status: WARNING | Sina: 0.00 | THS Vol: 3146 | TO: true
+[23:28:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:28:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:28:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:28:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:28:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:29:18] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:29:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:29:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:29:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:29:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:29:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:30:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:30:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:30:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:30:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:30:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:30:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:31:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:31:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:31:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:31:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:32:00] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:32:00 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:32:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:32:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:32:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:32:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:32:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:32:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:33:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:33:32] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:33:32 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:33:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:33:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:33:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:34:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:34:29] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:34:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:34:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:34:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:34:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:35:21] Status: WARNING | Sina: 1278.50 | THS Vol: 0 | TO: false
+[23:35:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:35:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:35:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:35:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:35:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:36:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:36:29] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:36:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:36:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:36:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:36:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:37:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:37:29] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:37:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:37:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:37:58] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:37:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:38:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:38:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:38:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:38:56] Status: WARNING | Sina: 0.00 | THS Vol: 3146 | TO: true
+[23:38:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:38:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:39:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:39:30] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:39:30 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:39:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:39:58] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:39:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:40:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:40:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:40:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:40:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:40:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:40:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:41:20] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:41:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:41:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:41:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:41:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:41:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:42:20] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:42:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:42:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:42:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:42:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:42:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:43:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:43:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:43:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:43:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:43:58] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:43:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:44:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:44:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:44:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:44:48] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:44:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:44:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:45:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:45:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:45:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:45:55] Status: WARNING | Sina: 0.00 | THS Vol: 3146 | TO: true
+[23:45:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:45:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:46:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:46:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:46:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:46:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:46:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:46:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:47:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:47:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:47:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:47:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:47:59] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:47:59 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:48:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:48:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:48:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:48:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:48:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:48:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:49:18] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:49:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:49:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:49:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:49:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:49:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:50:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:50:29] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:50:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:50:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:50:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:50:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:51:19] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:51:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:51:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:51:48] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:51:58] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:51:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:52:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:52:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:52:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:52:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:52:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:52:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:53:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:53:29] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:53:29 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:53:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:53:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:53:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:54:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:54:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:54:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:54:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:54:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:54:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:55:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:55:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:55:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:55:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:55:58] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:55:58 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:56:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:56:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:56:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:56:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:56:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:56:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:57:18] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:57:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:57:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:57:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:57:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:57:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:58:17] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:58:27] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:58:27 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:58:46] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:58:57] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:58:57 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:59:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:59:28] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:59:28 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[23:59:47] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[23:59:59] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
+[HEALTH] 2026/07/22 23:59:59 ⚠️  Notification Push Failed: Post "http://127.0.0.1:8081/api/health/state": dial tcp 127.0.0.1:8081: connect: connection refused
+[00:00:16] Status: OK | Sina: 1278.50 | THS Vol: 3146 | TO: true
